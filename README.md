@@ -13,3 +13,9 @@ II. Details
   Build state machine to control a execution 
 
   Build API to submit task and polling status by request_id
+
+
+II. Statue machine 
+
+![Alt text](docs/state_machine.png?raw=true "implementation")
+
